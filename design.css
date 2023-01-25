@@ -19,35 +19,35 @@ td{
     color: black;
 }
 
-#A7 {background-color: black;}
-#A5 {background-color: black;}
-#A3 {background-color: black;}
-#A1 {background-color: black;}
-#B8 {background-color: black;}
-#B6 {background-color: black;}
-#B4 {background-color: black;}
-#B2 {background-color: black;}
-#C7 {background-color: black;}
-#C5 {background-color: black;}
-#C3 {background-color: black;}
-#C1 {background-color: black;}
-#D8 {background-color: black;}
-#D6 {background-color: black;}
-#D4 {background-color: black;}
-#D2 {background-color: black;}
-#E7 {background-color: black;}
-#E5 {background-color: black;}
-#E3 {background-color: black;}
-#E1 {background-color: black;}
-#F8 {background-color: black;}
-#F6 {background-color: black;}
-#F4 {background-color: black;}
-#F2 {background-color: black;}
-#G7 {background-color: black;}
-#G5 {background-color: black;}
-#G3 {background-color: black;}
-#G1 {background-color: black;}
-#H8 {background-color: black;}
-#H6 {background-color: black;}
-#H4 {background-color: black;} 
-#H2 {background-color: black;}
+#A7 {background-color: black; color: white; font-size: 20px;}
+#A5 {background-color: black; color: white; font-size: 20px;}
+#A3 {background-color: black; color: white; font-size: 20px;}
+#A1 {background-color: black; color: white; font-size: 20px;}
+#B8 {background-color: black; color: white; font-size: 20px;}
+#B6 {background-color: black; color: white; font-size: 20px;}
+#B4 {background-color: black; color: white; font-size: 20px;}
+#B2 {background-color: black; color: white; font-size: 20px;}
+#C7 {background-color: black; color: white; font-size: 20px;}
+#C5 {background-color: black; color: white; font-size: 20px;}
+#C3 {background-color: black; color: white; font-size: 20px;}
+#C1 {background-color: black; color: white; font-size: 20px;}
+#D8 {background-color: black; color: white; font-size: 20px;}
+#D6 {background-color: black; color: white; font-size: 20px;}
+#D4 {background-color: black; color: white; font-size: 20px;}
+#D2 {background-color: black; color: white; font-size: 20px;}
+#E7 {background-color: black; color: white; font-size: 20px;}
+#E5 {background-color: black; color: white; font-size: 20px;}
+#E3 {background-color: black; color: white; font-size: 20px;}
+#E1 {background-color: black; color: white; font-size: 20px;}
+#F8 {background-color: black; color: white; font-size: 20px;}
+#F6 {background-color: black; color: white; font-size: 20px;}
+#F4 {background-color: black; color: white; font-size: 20px;}
+#F2 {background-color: black; color: white; font-size: 20px;}
+#G7 {background-color: black; color: white; font-size: 20px;}
+#G5 {background-color: black; color: white; font-size: 20px;}
+#G3 {background-color: black; color: white; font-size: 20px;}
+#G1 {background-color: black; color: white; font-size: 20px;}
+#H8 {background-color: black; color: white; font-size: 20px;}
+#H6 {background-color: black; color: white; font-size: 20px;}
+#H4 {background-color: black; color: white; font-size: 20px;} 
+#H2 {background-color: black; color: white; font-size: 20px;}
