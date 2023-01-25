@@ -8,3 +8,46 @@ td{
     font-size: 75px; 
     color: black;
 }
+table, tr, td{
+    border: 2px black solid;
+}
+td{
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    font-size: 75px; 
+    color: black;
+}
+
+#A7 {background-color: black;}
+#A5 {background-color: black;}
+#A3 {background-color: black;}
+#A1 {background-color: black;}
+#B8 {background-color: black;}
+#B6 {background-color: black;}
+#B4 {background-color: black;}
+#B2 {background-color: black;}
+#C7 {background-color: black;}
+#C5 {background-color: black;}
+#C3 {background-color: black;}
+#C1 {background-color: black;}
+#D8 {background-color: black;}
+#D6 {background-color: black;}
+#D4 {background-color: black;}
+#D2 {background-color: black;}
+#E7 {background-color: black;}
+#E5 {background-color: black;}
+#E3 {background-color: black;}
+#E1 {background-color: black;}
+#F8 {background-color: black;}
+#F6 {background-color: black;}
+#F4 {background-color: black;}
+#F2 {background-color: black;}
+#G7 {background-color: black;}
+#G5 {background-color: black;}
+#G3 {background-color: black;}
+#G1 {background-color: black;}
+#H8 {background-color: black;}
+#H6 {background-color: black;}
+#H4 {background-color: black;} 
+#H2 {background-color: black;}
