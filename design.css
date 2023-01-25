@@ -11,14 +11,6 @@ td{
 table, tr, td{
     border: 2px black solid;
 }
-td{
-    text-align: center;
-    height: 100px;
-    width: 100px;
-    font-size: 75px; 
-    color: black;
-}
-
 #A7 {background-color: black; color: white; font-size: 20px;}
 #A5 {background-color: black; color: white; font-size: 20px;}
 #A3 {background-color: black; color: white; font-size: 20px;}
